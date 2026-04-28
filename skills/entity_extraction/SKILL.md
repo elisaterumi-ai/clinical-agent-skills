@@ -19,8 +19,6 @@ Only extract entities that are explicitly mentioned in the text.
 
 Do not infer or hallucinate information.
 
----
-
 ## 2. Classify each entity
 
 Assign each entity one of the following types:
@@ -33,22 +31,16 @@ Assign each entity one of the following types:
 
 If an entity does not clearly belong to one of these categories, do not include it.
 
----
-
 ## 3. Preserve original text spans
 
 - Extract entities exactly as they appear in the text  
 - Do not normalize, translate, or modify wording  
 - Maintain original casing and phrasing  
 
----
-
 ## 4. Avoid duplication
 
 - If the same entity appears multiple times, extract it once  
 - Preserve distinct entities separately  
-
----
 
 ## 5. Output format
 
@@ -64,7 +56,7 @@ Return the result as a JSON object:
   ]
 }
 ```
-
+ 
 ## 6. Constraints
 
 - Do not include explanations  
