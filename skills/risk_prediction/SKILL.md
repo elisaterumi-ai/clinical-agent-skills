@@ -17,8 +17,6 @@ Identify information that may influence risk, including:
 
 Only use explicitly stated information.
 
----
-
 ## 2. Identify risk indicators
 
 Determine whether the case includes signs of:
@@ -29,8 +27,6 @@ Determine whether the case includes signs of:
 - Abnormal findings or critical values
 
 Do not assume missing data.
-
----
 
 ## 3. Assign risk level
 
