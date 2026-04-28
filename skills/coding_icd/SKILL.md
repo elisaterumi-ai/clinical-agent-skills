@@ -14,15 +14,12 @@ Extract only diagnoses or conditions that are:
 
 Do not infer diagnoses from symptoms alone.
 
----
-
 ## 2. Normalize the diagnosis
 
 - Interpret the clinical term as written  
 - Map it to the closest standard diagnostic concept  
 - Preserve specificity when possible (e.g., type, location, severity)
 
----
 
 ## 3. Assign ICD code
 
@@ -32,15 +29,11 @@ Do not infer diagnoses from symptoms alone.
 
 Do not fabricate or guess codes.
 
----
-
 ## 4. Handle multiple diagnoses
 
 - Extract and code each diagnosis independently  
 - Avoid duplication  
 - Maintain clear mapping between diagnosis and code  
-
----
 
 ## 5. Output format
 
