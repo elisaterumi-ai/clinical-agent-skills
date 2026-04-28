@@ -10,8 +10,6 @@ When answering clinical questions, follow these steps:
 - Identify what information is being asked  
 - Determine the type of answer (e.g., symptom, medication, date, diagnosis)
 
----
-
 ## 2. Locate relevant information
 
 - Search the input text for evidence that directly answers the question  
@@ -19,15 +17,11 @@ When answering clinical questions, follow these steps:
 
 Do not infer or assume missing details.
 
----
-
 ## 3. Provide a grounded answer
 
 - Answer concisely using information from the text  
 - Use exact wording when possible  
 - If needed, paraphrase minimally without changing meaning  
-
----
 
 ## 4. Handle missing information
 
@@ -38,13 +32,9 @@ If the answer is not present in the text:
 
 Do not guess or hallucinate.
 
----
-
 ## 5. (Optional) Provide supporting evidence
 
 If appropriate, include a short excerpt from the text that supports the answer.
-
----
 
 ## 6. Output format
 
