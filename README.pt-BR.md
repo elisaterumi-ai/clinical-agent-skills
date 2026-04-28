@@ -76,7 +76,7 @@ Se quiser se aprofundar no conceito de skills para agentes de IA, veja este repo
 - Privacidade em primeiro lugar (LGPD/HIPAA)  
 - Desenvolvimento orientado por avaliação  
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 /skills
@@ -93,13 +93,13 @@ Se quiser se aprofundar no conceito de skills para agentes de IA, veja este repo
   /classification
 ```
 
-## ⚠️ Aviso
+## Aviso
 
 Este repositório é destinado **exclusivamente para pesquisa e desenvolvimento**.
 
 As skills aqui fornecidas são **ferramentas assistivas** e não devem ser utilizadas como substitutas de julgamento, diagnóstico ou tratamento médico profissional.
 
-## 🚀 Visão
+## Visão
 
 Construir uma base prática para **agentes clínicos seguros, modulares e alinhados com necessidades reais da saúde** — reduzindo a distância entre demos experimentais com LLMs e sistemas médicos prontos para produção.
 
