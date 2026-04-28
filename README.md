@@ -25,9 +25,6 @@ Instead of isolated prompts, each skill is designed as a **reliable, composable 
 - **[Diagnostic Support (Assistive)](./skills/diagnostic_support/)**  
   Suggest possible hypotheses based on patient data *(non-deterministic, assistive use only)*.
 
-- **[Medication Parsing](./skills/medication_parsing/)**  
-  Extract dosage, frequency, and administration details.
-
 - **[Clinical Coding (ICD/CID)](./skills/coding_icd/)**  
   Map clinical text to standardized medical codes.
 
