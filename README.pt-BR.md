@@ -1,7 +1,7 @@
 🌍 Language:
 [English](README.md) | [Português](README.pt-BR.md) | [Español](README.es.md)
 
-# 🏥 Clinical Agent Skills
+# Clinical Agent Skills
 
 ![Clinical AI Skills](./assets/clinical-ai-skills.png)
 
